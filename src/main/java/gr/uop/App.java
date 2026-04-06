@@ -10,7 +10,7 @@ import javafx.scene.control.*;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
 
-public class ServerApp extends Application {
+public class App extends Application {
 
     private TextArea logArea;
     private Button startStopButton;
